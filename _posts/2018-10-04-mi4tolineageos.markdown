@@ -215,11 +215,11 @@ tags:
 
    ![004-14-IMG_20181004_211539-wipe-双清.jpg](/img/in-post/post-mi4tolineageos/004-14-IMG_20181004_211539-wipe-双清.jpg)
 
-   (如果不需要全部清除输出的话,请跳过!) 格式化手机内置sdcard. 点击 格式化DATA分区, 就会出现下面的界面.
+   (如果不需要全部清除数据的话,请跳过!) 格式化手机内置sdcard. 点击 格式化DATA分区, 就会出现下面的界面.
 
    ![004-15-IMG_20181004_211903-format-data.jpg](/img/in-post/post-mi4tolineageos/004-15-IMG_20181004_211903-format-data.jpg)
 
-   (如果不需要全部清除输出的话,请跳过!) 格式化手机内置sdcard. 输入 yes 回车 确认操作.
+   (如果不需要全部清除数据的话,请跳过!) 格式化手机内置sdcard. 输入 yes 回车 确认操作.
 
    ![004-16-IMG_20181004_211917-format-data-yes.jpg](/img/in-post/post-mi4tolineageos/004-16-IMG_20181004_211917-format-data-yes.jpg)
 
