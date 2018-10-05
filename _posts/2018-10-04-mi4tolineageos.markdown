@@ -21,11 +21,11 @@ tags:
 
 1. 生前
   
-  1. miui遗照
+   miui遗照
 
 ![小米手机4](/img/in-post/post-mi4tolineageos/001-1-小米手机4.png)
 
-  2. 米4的遗物  
+   米4的遗物  
 
 ![小米手机4-卡刷包](/img/in-post/post-mi4tolineageos/001-2-小米手机4-卡刷包.png)
 
@@ -64,8 +64,14 @@ tags:
   1. 开发者模式
   手机 设置>我的设备>全部参数>MiUI 版本(点击5次-开启开发者模式)
 
+|![002-1-844190566787868161-设置-我的设备.png](/img/in-post/post-mi4tolineageos/002-1-844190566787868161-设置-我的设备.png)|![002-2-584811925639221627-我的设备-全部参数.png](/img/in-post/post-mi4tolineageos/002-2-584811925639221627-我的设备-全部参数.png)|![002-3-533915375131661992-全部参数-MIUI版本.png](/img/in-post/post-mi4tolineageos/002-3-533915375131661992-全部参数-MIUI版本.png)|
+
+
+
   2. USB调试
   手机 设置>更多设置>开发者选项>USB调试
+
+|![002-1-844190566787868161-设置-我的设备.png](/img/in-post/post-mi4tolineageos/002-1-844190566787868161-设置-我的设备.png)|![002-4-280203510222175097-设置-更多设置.png](/img/in-post/post-mi4tolineageos/002-4-280203510222175097-设置-更多设置.png)|![002-5-69793988195590402-更多设置-开发者选项.png](/img/in-post/post-mi4tolineageos/002-5-69793988195590402-更多设置-开发者选项.png)|![002-6-20505554326648468-开发者选项.png](/img/in-post/post-mi4tolineageos/002-6-20505554326648468-开发者选项.png)|![002-7-559387598021082155-开发者选项-USB调试.png](/img/in-post/post-mi4tolineageos/002-7-559387598021082155-开发者选项-USB调试.png)|![002-8-110619712441753142-USB调试.png](/img/in-post/post-mi4tolineageos/002-8-110619712441753142-USB调试.png)| 
 
   3. 手机USB线连接PC,进入工具界面(cmd),(XX\MiFlash2018-5-28-0\Source\ThirdParty\Google\Android).
 
