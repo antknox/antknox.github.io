@@ -33,33 +33,33 @@ tags:
 
  Masgisk
 
- !(Masgisk-界面)(/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-16-337_com.topjohnwu.magisk.png]
+ ![Masgisk-界面](/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-16-337_com.topjohnwu.magisk.png）
 
- !(Masgisk-下载)(/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-41-062_com.topjohnwu.magisk.png]
+ ![Masgisk-下载](/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-41-062_com.topjohnwu.magisk.png)
 
- !(Masgisk-下载搜索)(/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-49-659_com.topjohnwu.magisk.png]
+ ![Masgisk-下载搜索](/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-49-659_com.topjohnwu.magisk.png)
 
- !(Masgisk-模块)(/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-25-018_com.topjohnwu.magisk.png]
+ ![Masgisk-模块](/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-25-018_com.topjohnwu.magisk.png)
 
  ViPER4Android_FX
 
- !(ViPER4Android_FX)(/img/in-post/post-masgisk/Screenshot_2018-10-08-23-08-40-425_com.topjohnwu.magisk.png]
+ ![ViPER4Android_FX](/img/in-post/post-masgisk/Screenshot_2018-10-08-23-08-40-425_com.topjohnwu.magisk.png)
 
  安装中,需要按照提示,按下音量+,音量- 键.
 
  Busybox_for_Android_NDK
 
- !(Busybox_for_Android_NDK)(/img/in-post/post-masgisk/Screenshot_2018-10-08-23-08-46-354_com.topjohnwu.magisk.png]
+ ![Busybox_for_Android_NDK](/img/in-post/post-masgisk/Screenshot_2018-10-08-23-08-46-354_com.topjohnwu.magisk.png)
 
  在ViPER4Android_FX设置或者加载音效配置.
 
  ViPER4Android_FX
 
- !(ViPER4Android_FX-界面)(/img/in-post/post-masgisk/Screenshot_2018-10-08-23-04-48-412_com.audlabs.viperfx.png]
+ ![ViPER4Android_FX-界面](/img/in-post/post-masgisk/Screenshot_2018-10-08-23-04-48-412_com.audlabs.viperfx.png)
 
- !(ViPER4Android_FX-加载音频配置)(/img/in-post/post-masgisk/Screenshot_2018-10-08-22-41-53-141_com.audlabs.viperfx.png]
+ ![ViPER4Android_FX-加载音频配置](/img/in-post/post-masgisk/Screenshot_2018-10-08-22-41-53-141_com.audlabs.viperfx.png)
 
- !(ViPER4Android_FX-音频配置)(/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-01-577_com.audlabs.viperfx.png]
+ ![ViPER4Android_FX-音频配置](/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-01-577_com.audlabs.viperfx.png)
 
  [音频配置文件](/img/in-post/post-masgisk/set/ViPER4Android.rar)
  解压到根目录.
