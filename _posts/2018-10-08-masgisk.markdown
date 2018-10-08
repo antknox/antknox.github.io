@@ -29,7 +29,9 @@ tags:
 
  ViPER4Android_FX([ViPER4Android_FX-v1.7.4.zip](/files/2018-10/magisk/ViPER4Android_FX-v1.7.4.zip)),
 
- Busybox_for_Android_NDK([Busybox_for_Android_NDK-1.29.3.zip](/files/2018-10/magisk/Busybox_for_Android_NDK-1.29.3.zip)),分别安装.都要重启一遍.
+ Busybox_for_Android_NDK([Busybox_for_Android_NDK-1.29.3.zip](/files/2018-10/magisk/Busybox_for_Android_NDK-1.29.3.zip)),
+
+ 分别安装.都要重启一遍.
 
  Masgisk
 
@@ -55,13 +57,19 @@ tags:
 
  ViPER4Android_FX
 
+ 界面
+
  ![ViPER4Android_FX-界面](/img/in-post/post-masgisk/Screenshot_2018-10-08-23-04-48-412_com.audlabs.viperfx.png)
+
+ 加载音频配置
 
  ![ViPER4Android_FX-加载音频配置](/img/in-post/post-masgisk/Screenshot_2018-10-08-22-41-53-141_com.audlabs.viperfx.png)
 
+ 音频配置
+
  ![ViPER4Android_FX-音频配置](/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-01-577_com.audlabs.viperfx.png)
 
- [音频配置文件](/img/in-post/post-masgisk/set/ViPER4Android.rar)
+ [音频配置文件](/files/2018-10/magisk/set/ViPER4Android.rar)
  解压到根目录.
 
 ###后记
