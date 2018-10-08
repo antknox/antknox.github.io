@@ -33,7 +33,7 @@ tags:
 
  Masgisk
 
- ![Masgisk-界面](/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-16-337_com.topjohnwu.magisk.png）
+ ![Masgisk-界面](/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-16-337_com.topjohnwu.magisk.png)
 
  ![Masgisk-下载](/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-41-062_com.topjohnwu.magisk.png)
 
