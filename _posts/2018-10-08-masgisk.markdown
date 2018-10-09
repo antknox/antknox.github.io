@@ -21,11 +21,31 @@ tags:
 
  进入REC,
 
+ ![TWRP](/img/in-post/post-masgisk/004-10-IMG_20181004_211526-twrp.jpg)
+
  刷入Masgisk([Magisk-v17.1(17100).zip](/files/2018-10/magisk/Magisk-v17.1(17100).zip)),
+ 
+ 安装 install 选择 Masgisk卡刷包 Magisk-v17.1(17100).zip
 
- 在Masgisk里,
+ ![Masgisk卡刷包](/img/in-post/post-masgisk/IMG_20181009_153209.jpg)
+ 
+ 确认 刷入 
 
- 下载安装
+ ![刷入Masgisk](/img/in-post/post-masgisk/IMG_20181009_153258.jpg) 
+
+ 刷入中... 
+ 
+ ![刷入中...](/img/in-post/post-masgisk/IMG_20181009_153312.jpg)
+
+ ![刷入中...](/img/in-post/post-masgisk/IMG_20181009_153328.jpg) 
+
+ 之后重启手机,打开Masgisk
+
+ ![masgisk-界面](/img/in-post/post-masgisk/Screenshot_20181009-153800.png) 
+
+ 更新一下,Masgisk.
+
+ ![masgisk](/img/in-post/post-masgisk/Screenshot_20181009-153824.png) 
 
  ViPER4Android_FX([ViPER4Android_FX-v1.7.4.zip](/files/2018-10/magisk/ViPER4Android_FX-v1.7.4.zip)),
 
@@ -33,9 +53,11 @@ tags:
 
  分别安装.都要重启一遍.
 
- Masgisk
+ Masgisk - 界面
 
  ![Masgisk-界面](/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-16-337_com.topjohnwu.magisk.png)
+
+ 菜单 -  下载 
 
  ![Masgisk-下载](/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-41-062_com.topjohnwu.magisk.png)
 
@@ -43,15 +65,61 @@ tags:
 
  ![Masgisk-模块](/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-25-018_com.topjohnwu.magisk.png)
 
- ViPER4Android_FX
+ 在搜索栏输入 ViPER4Android_FX 搜素.
 
- ![ViPER4Android_FX](/img/in-post/post-masgisk/Screenshot_2018-10-08-23-08-40-425_com.topjohnwu.magisk.png)
+ ![viper4](/img/in-post/post-masgisk/Screenshot_20181009-154037.png)
+
+ ![ViPER4Android_FX](/img/in-post/post-masgisk/Screenshot_20181009-154047.png)
+
+ 安装过程...
 
  安装中,需要按照提示,按下音量+,音量- 键.
+
+ 按下 音量+
+
+ ![+](/img/in-post/post-masgisk/IMG_20181009_154322.jpg) 
+
+ 按下 音量-
+
+ ![-](/img/in-post/post-masgisk/IMG_20181009_154338.jpg) 
+
+ 再按下 音量-
+
+ ![-](/img/in-post/post-masgisk/IMG_20181009_154349.jpg) 
+
+ 完成
+
+ ![end](/img/in-post/post-masgisk/IMG_20181009_154439.jpg) 
+
+ 之后重启.
 
  Busybox_for_Android_NDK
 
  ![Busybox_for_Android_NDK](/img/in-post/post-masgisk/Screenshot_2018-10-08-23-08-46-354_com.topjohnwu.magisk.png)
+
+ 刷入busybox
+
+ ![Busybox](/img/in-post/post-masgisk/Screenshot_20181009-154712.png) 
+
+ 之后重启.
+
+ 其他,下载速度可能会很慢.
+
+ 所以可以在 菜单 - 模块,添加 +
+
+ ![++](/img/in-post/post-masgisk/Screenshot_20181009-154135.png) 
+
+ 文件浏览器
+
+ ![files](/img/in-post/post-masgisk/Screenshot_20181009-154152.png) 
+
+ ViPER4Android_FX   ViPER4Android_FX-v1.7.4.zip  长按 选择打开.
+
+ ![v长按](/img/in-post/post-masgisk/Screenshot_20181009-214747.png) 
+
+ Busybox_for_Android_NDK   Busybox_for_Android_NDK-1.29.3.zip  长按 选择打开.
+
+ ![b长按](/img/in-post/post-masgisk/Screenshot_20181009-154658.png) 
 
  在ViPER4Android_FX设置或者加载音效配置.
 
@@ -75,3 +143,31 @@ tags:
 ###后记
 
  这里,需要慢慢摸索,调试.
+
+ 其他问题,在Mi4的Lineage OS,刷入Masgisk,会出现root没有了,之后就要重新刷入su-root.
+
+ 之后,是Mi8的,root会被替换.
+
+ 如图.
+
+ ![fastboot](/img/in-post/post-masgisk/Screenshot_2018-10-09-15-59-38-857_com.miui.securityadd.png)
+
+ 还有.
+
+ TWRP,进入rec,有屏幕锁的话,要先解锁.
+
+ 之后,操作时要重新刷新data分区.
+
+ ![twrp-rec](/img/in-post/post-masgisk/IMG_20181008_225250.jpg) 
+
+ ![锁](/img/in-post/post-masgisk/IMG_20181008_225426.jpg) 
+
+ ![data](/img/in-post/post-masgisk/IMG_20181008_225501.jpg) 
+
+ ![界面](/img/in-post/post-masgisk/IMG_20181008_225520.jpg) 
+
+ ![install](/img/in-post/post-masgisk/IMG_20181008_225552.jpg) 
+
+ 国际版抖音
+ 
+ ![tiktok](/img/in-post/post-masgisk/Screenshot_2018-10-09-13-26-46-621_com.topjohnwu.magisk.png)

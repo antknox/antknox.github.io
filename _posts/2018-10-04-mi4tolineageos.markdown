@@ -288,3 +288,6 @@ tags:
  最后,安装`黑域`,启动`隐私防护`,还有`系统情景`超级好用.
 
  还有 Tasker,adb工具安装器(网络).
+
+ `adb devices`
+ `adb -d shell sh /data/data/me.piebridge.brevent/brevent.sh`
