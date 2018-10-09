@@ -63,8 +63,6 @@ tags:
 
  ![Masgisk-下载搜索](/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-49-659_com.topjohnwu.magisk.png)
 
- ![Masgisk-模块](/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-25-018_com.topjohnwu.magisk.png)
-
  在搜索栏输入 ViPER4Android_FX 搜素.
 
  ![viper4](/img/in-post/post-masgisk/Screenshot_20181009-154037.png)
@@ -102,6 +100,8 @@ tags:
  ![Busybox](/img/in-post/post-masgisk/Screenshot_20181009-154712.png) 
 
  之后重启.
+
+ ![Masgisk-模块](/img/in-post/post-masgisk/Screenshot_2018-10-08-22-42-25-018_com.topjohnwu.magisk.png)
 
  其他,下载速度可能会很慢.
 
