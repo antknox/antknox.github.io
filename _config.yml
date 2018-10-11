@@ -16,7 +16,7 @@ weibo_username:     antknox
 zhihu_username:     antknox
 github_username:    antknox
 #twitter_username:  antknox
-facebook_username:  antknox
+#facebook_username:  antknox
 
 
 
@@ -82,11 +82,11 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
+        title: "主页",
+        href: "https://antknox.github.io"
     },{
-        title: "Foo",
-        href: "#"
+        title: "搜索",
+        href: "http://lackar.com/aa/"
     },{
         title: "Bar",
         href: "#"
