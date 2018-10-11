@@ -89,13 +89,13 @@ tags:
 
    原版 EN twrp-3.1.0-0-cancro.img [TWRP for cancro](https://dl.twrp.me/cancro/) 
 
-   汉化版:[light]TWRP-3.2.1-0-cancro-zh_CN.img [下载](/files/2018-10/[light]TWRP-3.2.1-0-cancro-zh_CN.img) 
+   汉化版:[light]TWRP-3.2.1-0-cancro-zh_CN.img [下载](/files/2018-10/[light]TWRP-3.2.1-0-cancro-zh_CN.img)  (更新系统时,此汉化版的rec,无法识别系统的卡刷包,建议暂不使用!)
 
    by [[软件] [5.1更新]TWRP 3.2.1-0 最新汉化版 For Cancro(MI 3/4) 含官方rec及教程](http://www.miui.com/thread-8369184-1-1.html)
 
  卡刷包:
 
-  Lineage OS : lineage-14.1-20181003-nightly-cancro-signed.zip [Builds for cancro](https://download.lineageos.org/cancro)
+  Lineage OS : lineage-14.1-XXXXXXXX-nightly-cancro-signed.zip [Builds for cancro](https://download.lineageos.org/cancro)
  
    ![003-2-2018-10-04_204936-mi4-lineageos-卡刷包.png](/img/in-post/post-mi4tolineageos/003-2-2018-10-04_204936-mi4-lineageos-卡刷包.png)
 
@@ -260,7 +260,7 @@ tags:
 
   ![005-6-IMG_20181004_220106-OTG-U-files.jpg](/img/in-post/post-mi4tolineageos/005-6-IMG_20181004_220106-OTG-U-files.jpg)
 
-  安装(install)界面,选择卡刷包 lineage-14.1-20181003-nightly-cancro-signed.zip
+  安装(install)界面,选择卡刷包 lineage-14.1-xxxxxxxx-nightly-cancro-signed.zip
 
   ![005-8-IMG_20181004_211832-install-选择卡刷包-2.jpg](/img/in-post/post-mi4tolineageos/005-8-IMG_20181004_211832-install-选择卡刷包-2.jpg)
 
