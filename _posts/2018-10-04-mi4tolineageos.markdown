@@ -96,6 +96,8 @@ tags:
  卡刷包:
 
   Lineage OS : lineage-14.1-XXXXXXXX-nightly-cancro-signed.zip [Builds for cancro](https://download.lineageos.org/cancro)
+
+  另外:Lineage OS 官网下载速度真心慢.so [中国科技技术大学镜像](https://mirrors.ustc.edu.cn/lineageos/),[LineageOS中文论坛](http://download.lineageos.org.cn/).
  
    ![003-2-2018-10-04_204936-mi4-lineageos-卡刷包.png](/img/in-post/post-mi4tolineageos/003-2-2018-10-04_204936-mi4-lineageos-卡刷包.png)
 
