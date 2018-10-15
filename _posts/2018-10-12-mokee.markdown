@@ -14,8 +14,36 @@ tags:
 ## 前言
 
  先挖个坑,看看是不是要刷个魔趣..
- [魔趣Mokee](https://download.mokeedev.com/)
+ [魔趣Mokee](https://www.mokeedev.com/)
+
+ [下载](https://download.mokeedev.com/)
+
+ [小米4-mokee](https://download.mokeedev.com/?device=cancro)
+
+ [rec-百度云](https://pan.baidu.com/s/1ht2x63i).rec的话,还是建议用 [TWRP](https://dl.twrp.me/cancro/),可以在TWRP的rec中刷入OTA增量包,魔趣提供的就刷不进.
+
+ [Magisk](https://download.mokeedev.com/extras#magisk)
+
+ [谷歌服务](https://download.mokeedev.com/extras#gapps)
+
+ [root-su](https://download.mokeedev.com/extras#addonsu)
 
 ## 正文
 
+刷机就略过..
+
+放上几张图
+
+ ![1-1](/img/in-post/post-mokee/1-1-192784538438204660.png)
+
+ ![1-2](/img/in-post/post-mokee/1-2-16654237740214120.png)
+
+ ![1-3](/img/in-post/post-mokee/1-3-612702794905544274.png)
+
+ ![1-4](/img/in-post/post-mokee/1-4-468520505453577444.png)
+
+ ![1-5](/imh/in-post/post-mokee/1-5-289617779123302477.png)
+
 ## 后记
+
+ 还有 substratum 很强大.
