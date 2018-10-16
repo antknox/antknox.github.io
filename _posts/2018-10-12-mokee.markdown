@@ -20,7 +20,9 @@ tags:
 
  [小米4-mokee](https://download.mokeedev.com/?device=cancro)
 
- [rec-百度云](https://pan.baidu.com/s/1ht2x63i).rec的话,还是建议用 [TWRP](https://dl.twrp.me/cancro/),可以在TWRP的rec中刷入OTA增量包,魔趣提供的就刷不进.
+ [rec-百度云](https://pan.baidu.com/s/1ht2x63i).rec的话,还是建议用 [TWRP](https://dl.twrp.me/cancro/),可以在TWRP的rec中刷入OTA增量包,魔趣提供的就刷不进. 
+
+ 之后,手机ROOT了,使用Flashify来刷卡刷包(完整包.增量包也可以.)
 
  [Magisk](https://download.mokeedev.com/extras#magisk)
 
