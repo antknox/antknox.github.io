@@ -1,0 +1,41 @@
+---
+layout:     post
+title:      "WareSoft"
+subtitle:   "WareSoft"
+date:       2018-10-23 21:00:00
+author:     "antknox"
+header-img: "img/post-bg-2018.jpg"
+tags:
+    - IT
+
+---
+
+## 前言
+ 纪录日常使用的软件.
+
+## 正文
+ 输入法:[搜狗输入法](https://pinyin.sogou.com/)
+ 
+ 浏览器:[Chrome](https://www.google.cn/chrome/)
+ 
+ IM:[QQ](https://im.qq.com/) [WeChat](https://weixin.qq.com/)
+ 
+ NOTEPAD:[Notepad2](https://notepad2.com/) [MarkdownPad](http://markdownpad.com/) [sublime_text](https://www.sublimetext.com/3) [FoxitReader](https://www.foxitsoftware.cn/) [BooguNote](https://github.com/boogunote)(v1-outline v2-5online) [EditPlus 3](https://www.editplus.com/) [MadEdit](https://sourceforge.net/projects/madedit/)
+
+ Picture:[ComicShelf](http://www.comicshelf.com/chs/index.php)(漫画架) [Imagine](http://www.nyam.pe.kr/dev/imagine/) MangaMeeya [Snipaste](https://www.snipaste.com/) [AeroSnap](https://shuax.com/portfolio/tools/) [FastStoneCapture](http://blog.sina.com.cn/s/blog_89a729a40102wjwk.html)(飞扬时空) [  
+Honeyview](https://www.bandisoft.com/honeyview/) 
+
+ Download:[Xunlei](http://dl.xunlei.com/) [Internet Download Manager](http://www.internetdownloadmanager.com/) [Baidu](https://pan.baidu.com) [Proxyee Down](https://github.com/proxyee-down-org/proxyee-down/releases) [SpeedPan](https://www.speedpan.com/) BT [µTorrent](https://www.utorrent.com/) [btlist](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt) [aria2](https://aria2.github.io/) [github-aria2](https://github.com/aria2) [DuktoR6](http://www.msec.it/blog/?page_id=11)(内网传输) [eMule](
+ https://www.emule-project.net/home/perl/general.cgi?l=42) VeryXD UTF2ASC(文本编码) [FlashFXP](https://www.flashfxp.com/)
+
+ Clear:[Glary Utilities](https://www.glarysoft.com/) [Q-Dir](http://www.q-dir.com/) [Q-dir-DL](http://www.softwareok.com/?Download=Q-Dir) Hash [7-Zip](https://www.7-zip.org/) Winrar aida64 [CCleaner](https://www.ccleaner.com/ccleaner) Piriform All Products Keygen CCEnhancer-4.2-mulitlingual [Recuva(恢复)](https://www.ccleaner.com/recuva/) [DiskGeniu](http://www.diskgenius.cn/) [Everything](http://www.voidtools.com/) [FastCopy](https://fastcopy.jp/) hash [ISC BIND 9(dns)](https://www.isc.org/downloads/bind/) [XX-Net](https://github.com/XX-net/XX-Net) goagent [KMSpico](http://kmspi.co/) [Listary](https://www.listary.com/) [MacType](https://www.mactype.net/) [NetWorx](http://www.softperfect.com/products/networx/) [TrafficMonitor(网速监控)](https://github.com/zhongyang219/TrafficMonitor) [NirLauncher(系列软件)](http://launcher.nirsoft.net/) HOU任务计划(OnTimer) apploc ntleas046(系统环境-语言) [OpenVPN](http://bbs2.6plat.org/d/19) [PCHunterFree](http://www.epoolsoft.com/) [putty](https://www.putty.org/) [WinSCP](https://winscp.net/eng/docs/lang:chs) [java](https://www.java.com/zh_CN/) [python](https://www.python.org/) ShadowsocksR  SpaceSniffer(硬盘空间分析) syncthing SyncTrayzor(同步) System Repair Engineer(系统修复) UDefrag(磁盘整理) unbound uniextract(压缩解压) Wise Memory Optimizer Sakura_frpc(内网穿透) Batchrename - 文件&文件夹修改 Nmap(扫描)
+ Clear:[Glary Utilities](https://www.glarysoft.com/) [Q-Dir](http://www.q-dir.com/) [Q-dir-DL](http://www.softwareok.com/?Download=Q-Dir) Hash [7-Zip](https://www.7-zip.org/) Winrar aida64 CCleaner CCEnhancer-4.2-mulitlingual [Recuva(恢复)]() DiskGenius Everything FastCopy hash ISC BIND 9(dns) XX-Net goagent KMSpico Listary MacType NetWorx TrafficMonitor(网速监控) NirLauncher(系列软件) OnTimer(计划任务) apploc ntleas046(系统环境-语言) OpenVPN PCHunterFree putty WinSCP java python ShadowsocksR  [SpaceSniffer(硬盘空间分析)](http://www.uderzo.it/main_products/space_sniffer/index.html) [syncthing](https://syncthing.net/) [SyncTrayzor(同步)](https://www.iplaysoft.com/syncthing.html) System Repair Engineer(系统修复) UDefrag(磁盘整理) [unbound](https://nlnetlabs.nl/projects/unbound/about/) [uniextract(压缩解压)](https://www.legroom.net/software/uniextract) [Wise Memory Optimizer](http://www.wisecleaner.com/wise-memory-optimizer-user-guide.html) [Sakura_frpc(内网穿透)](https://www.natfrp.org/) Batchrename - 文件&文件夹修改 [Nmap(扫描)](https://nmap.org/) [Hourglass](https://chris.dziemborowicz.com/apps/hourglass/#downloads) [微PE](http://www.wepe.com.cn/) [uget](https://ugetdm.com/) verysync [ADM](http://www.admflt.com/) AnalogX-FastCache [flux](https://justgetflux.com/) PureDNS ZeroNet [Mp3Tag](https://www.mp3tag.de/en/) [Acrylic DNS Proxy](https://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome) [ALMRun](http://almrun.chenall.net/) []https://archive.codeplex.com/?p=danmu2ass
+ Clear:[Glary Utilities](https://www.glarysoft.com/) [Q-Dir](http://www.q-dir.com/) [Q-dir-DL](http://www.softwareok.com/?Download=Q-Dir) Hash [7-Zip](https://www.7-zip.org/) Winrar aida64 CCleaner CCEnhancer-4.2-mulitlingual [Recuva(恢复)]() DiskGenius Everything FastCopy hash ISC BIND 9(dns) XX-Net goagent KMSpico Listary MacType NetWorx TrafficMonitor(网速监控) NirLauncher(系列软件) OnTimer(计划任务) apploc ntleas046(系统环境-语言) OpenVPN PCHunterFree putty WinSCP java python ShadowsocksR  [SpaceSniffer(硬盘空间分析)](http://www.uderzo.it/main_products/space_sniffer/index.html) [syncthing](https://syncthing.net/) [SyncTrayzor(同步)](https://www.iplaysoft.com/syncthing.html) System Repair Engineer(系统修复) UDefrag(磁盘整理) [unbound](https://nlnetlabs.nl/projects/unbound/about/) [uniextract(压缩解压)](https://www.legroom.net/software/uniextract) [Wise Memory Optimizer](http://www.wisecleaner.com/wise-memory-optimizer-user-guide.html) [Sakura_frpc(内网穿透)](https://www.natfrp.org/) Batchrename - 文件&文件夹修改 [Nmap(扫描)](https://nmap.org/) [Hourglass](https://chris.dziemborowicz.com/apps/hourglass/#downloads) [微PE](http://www.wepe.com.cn/) [uget](https://ugetdm.com/) verysync [ADM](http://www.admflt.com/) AnalogX-FastCache [flux](https://justgetflux.com/) PureDNS ZeroNet [Mp3Tag](https://www.mp3tag.de/en/) [Acrylic DNS Proxy](https://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome) [ALMRun](http://almrun.chenall.net/) [Danmu2Ass](https://archive.codeplex.com/?p=danmu2ass) [DNSCrypt](https://github.com/opendns/dnscrypt-win-client)
+ 
+ Music:网易云音乐 [GoldWave(音频剪辑)](http://www.goldwave.ca/) [com](http://www.goldwave.com/release.php)
+
+ Video:[Camtasia Studio(视频剪辑)](https://www.techsmith.com/) [MediaCoder(视频压制)](http://mediacoder.com.cn/) MeteorNetTV [PotPlayer](http://potplayer.daum.net/?lang=zh_CN)
+
+## 后记
+
+慢慢添加!!
