@@ -23,7 +23,7 @@ tags:
 
  ![TWRP](/img/in-post/post-masgisk/004-10-IMG_20181004_211526-twrp.jpg)
 
- 刷入Masgisk([Magisk-v17.1(17100).zip](/files/2018-10/magisk/Magisk-v17.1(17100).zip)),
+ 刷入Masgisk([Magisk-github](https://github.com/topjohnwu/Magisk)),
  
  安装 install 选择 Masgisk卡刷包 Magisk-v17.1(17100).zip
 
