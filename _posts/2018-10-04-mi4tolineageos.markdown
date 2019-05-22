@@ -156,7 +156,7 @@ tags:
 
  CMD界面,
 
-  输入`fastboot devices`
+  输入`fastboot devices -l`
 
   结果显示:`xxxxxxx fastboot`
 
