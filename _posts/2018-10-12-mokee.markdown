@@ -34,6 +34,34 @@ tags:
 
 刷机就略过..
 
+code
+
+网络刷
+
+`ping IP`
+
+`adb connect IP`
+
+`adb devices`
+
+`adb push xxx.zip /sdcard/mokee`
+
+`adb push xxx.zip /sdcard/mokee`
+
+`adb push xxx.apk /sdcard/mokee`
+
+`adb reboot recovery`
+
+`adb sideload *.zip`
+
+`adb reboot`
+
+开黑域
+
+`adb devices`
+
+`adb -d shell sh /data/data/me.piebridge.brevent/brevent.sh`
+
 放上几张图
 
  ![1-1](/img/in-post/post-mokee/1-1-192784538438204660.png)
