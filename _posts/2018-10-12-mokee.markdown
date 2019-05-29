@@ -24,7 +24,7 @@ tags:
 
  之后,手机ROOT了,使用Flashify来刷卡刷包(完整包.增量包也可以.)
 
- [Magisk](https://download.mokeedev.com/extras#magisk)
+ [Magisk](https://github.com/topjohnwu/Magisk/releases)
 
  [谷歌服务](https://download.mokeedev.com/extras#gapps)
 
