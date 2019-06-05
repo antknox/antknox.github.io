@@ -52,7 +52,20 @@ code
 
 `adb reboot recovery`
 
-`adb sideload *.zip`
+
+USB 连接电脑刷机
+
+`adb devices`
+
+连接显示
+
+`D:\Downloads>adb devices`
+
+`List of devices attached`
+
+`xxxxxx sideload`
+
+`adb sideload xxx.zip`
 
 `adb reboot`
 
