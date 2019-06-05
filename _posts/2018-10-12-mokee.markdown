@@ -48,7 +48,6 @@ code
 
 `adb reboot recovery`
 
-
 USB 连接电脑刷机
 
 `adb devices`
