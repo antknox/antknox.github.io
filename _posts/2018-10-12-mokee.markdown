@@ -14,7 +14,7 @@ tags:
 ## 前言
 
  先挖个坑,看看是不是要刷个魔趣..
- [魔趣Mokee](https://www.mokeedev.com/)
+ [魔趣Mokee](https://www.mokeedev.com/)   [-_-] 现在是备用机主力系统（正式版）
 
  [下载](https://download.mokeedev.com/)
 
@@ -24,11 +24,10 @@ tags:
 
  之后,手机ROOT了,使用Flashify来刷卡刷包(完整包.增量包也可以.)
 
- [Magisk](https://github.com/topjohnwu/Magisk/releases)
+ [Magisk](https://github.com/topjohnwu/Magisk/releases)  root
 
- [谷歌服务](https://download.mokeedev.com/extras#gapps)
+ [谷歌服务](https://download.mokeedev.com/extension.html#gapps) 全集桶  建议刷 pico
 
- [root-su](https://download.mokeedev.com/extras#addonsu)
 
 ## 正文
 
@@ -36,7 +35,7 @@ tags:
 
 code
 
-网络刷
+###1 网络刷
 
 `ping IP`
 
@@ -48,8 +47,7 @@ code
 
 `adb reboot recovery`
 
-
-USB 连接电脑刷机
+###2 USB 连接电脑刷机
 
 `adb devices`
 
@@ -65,7 +63,7 @@ USB 连接电脑刷机
 
 `adb reboot`
 
-开黑域
+###3开黑域
 
 `adb devices`
 
